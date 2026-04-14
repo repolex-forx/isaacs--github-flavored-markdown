@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "isaacs",
+  "repo": "github-flavored-markdown",
+  "versions": [
+    {
+      "commit": "d57dd7dc82906e067dfe6bbcf3874300f86f96a5",
+      "parsed_at": "2026-04-14T11:35:28.140906+00:00",
+      "tag": "1.0.1",
+      "filetree": "filetree/d57dd7dc82906e067dfe6bbcf3874300f86f96a5.nq.gz",
+      "blobs": [
+        "blob/6ab83e825a40ea2cdb1881d4972f4459dd1ac217.nq.gz",
+        "blob/e6e8d7cd6d9a6ab871765f24eed2bb7e6638c175.nq.gz",
+        "blob/c10ad67da114ecdb24e9acd24ccac826715988e9.nq.gz",
+        "blob/e477c07eb626e991dd09c61d99b2f6c791382a60.nq.gz",
+        "blob/86c71a3f84c18720a6d3ceb7f2596914be632d11.nq.gz",
+        "blob/5d701daba056135235f623a8ddf6a96e1c1e4eea.nq.gz",
+        "blob/65954427a2e5dc643ac77d7f4d6c155d7c73529b.nq.gz",
+        "blob/056fdf280296a30158416469474620681d137106.nq.gz",
+        "blob/6857503c03a367908dc1c50b3f1d151736c26560.nq.gz",
+        "blob/9263a1ed651779c665bc3b3287cf4b56d5b6c7f5.nq.gz",
+        "blob/bc5fb07b718e587f11d223d3bd67bf9d9a2f505c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
